@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RPS-FMio/static/css/main.ece3cd5f.chunk.css",
+    "main.js": "/RPS-FMio/static/js/main.14c5c26b.chunk.js",
+    "main.js.map": "/RPS-FMio/static/js/main.14c5c26b.chunk.js.map",
+    "runtime-main.js": "/RPS-FMio/static/js/runtime-main.81c31eea.js",
+    "runtime-main.js.map": "/RPS-FMio/static/js/runtime-main.81c31eea.js.map",
+    "static/js/2.1d73bb1b.chunk.js": "/RPS-FMio/static/js/2.1d73bb1b.chunk.js",
+    "static/js/2.1d73bb1b.chunk.js.map": "/RPS-FMio/static/js/2.1d73bb1b.chunk.js.map",
+    "index.html": "/RPS-FMio/index.html",
+    "precache-manifest.531be77ded493c82665925b55997f5c1.js": "/RPS-FMio/precache-manifest.531be77ded493c82665925b55997f5c1.js",
+    "service-worker.js": "/RPS-FMio/service-worker.js",
+    "static/css/main.ece3cd5f.chunk.css.map": "/RPS-FMio/static/css/main.ece3cd5f.chunk.css.map",
+    "static/js/2.1d73bb1b.chunk.js.LICENSE.txt": "/RPS-FMio/static/js/2.1d73bb1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81c31eea.js",
+    "static/js/2.1d73bb1b.chunk.js",
+    "static/css/main.ece3cd5f.chunk.css",
+    "static/js/main.14c5c26b.chunk.js"
+  ]
+}
